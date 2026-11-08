@@ -1,0 +1,4 @@
+shots/
+node_modules/
+shot.js
+*.dc.html
